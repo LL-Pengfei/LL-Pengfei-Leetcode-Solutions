@@ -5,15 +5,15 @@ This repo contains Leetcode solutions created by Zhao Pengfei (github: [LL-Pengf
 Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions.
 
 Completion statistic:<br>
-- Total : 0<br>
-    - Easy : 0<br>
-    - Medium : 0<br>
-    - Hard : 0<br>
+- Total :       3<br>
+    - Easy :    3<br>
+    - Medium :  0<br>
+    - Hard :    0<br>
 
 -----------------------
 ## LeetCode Solution Table
 | Title | Difficulty | source |
 |:---:|:---:|:---:|
-[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |medium|0.311|[c](https://github.com/A11riseforme/myleetcode/blob/master/src/2-add-two-numbers.c)|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |medium|0.283|[c](https://github.com/A11riseforme/myleetcode/blob/master/src/3-longest-substring-without-repeating-characters.c)|
+|[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
+|[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)|
+|[657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/657%20Robot%20Return%20to%20Origin.cpp)|
