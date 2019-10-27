@@ -4,14 +4,13 @@ This repo contains Leetcode solutions created by Zhao Pengfei (github: [LL-Pengf
 # LL-Pengfei-Leetcode-Solutions
 Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions.
 
-Completion statistic:<br>
-- Total :       3<br>
-    - Easy :    3<br>
-    - Medium :  0<br>
-    - Hard :    0<br>
+## Statistics
+| Easy | Medium | Hard | Total |
+|:---:|:---:|:---:|:---:|
+| 3 | 0 | 0 | 3 |
 
 -----------------------
-## LeetCode Solution Table
+## Solution Table
 | Title | Difficulty | source |
 |:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
