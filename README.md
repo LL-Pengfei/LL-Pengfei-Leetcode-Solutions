@@ -12,8 +12,8 @@ Completion statistic:<br>
 
 -----------------------
 ## LeetCode Solution Table
-| ID | Title | Difficulty | Acceptance Rate | source |
-|:---:|:---:|:---:|:---:|:---:|
-[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|0.441|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
+| Title | Difficulty | source |
+|:---:|:---:|:---:|
+[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |medium|0.311|[c](https://github.com/A11riseforme/myleetcode/blob/master/src/2-add-two-numbers.c)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |medium|0.283|[c](https://github.com/A11riseforme/myleetcode/blob/master/src/3-longest-substring-without-repeating-characters.c)|
