@@ -9,7 +9,7 @@ Starting from Oct 28, 2019, I will be updating this repo with my own solutions t
 |:---:|:---:|:---:|:---:|
 | 3 | 0 | 0 | 3 |
 ## Solution Table
-| Title | Difficulty | source |
+| Title | Difficulty | Programme |
 |:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)|
