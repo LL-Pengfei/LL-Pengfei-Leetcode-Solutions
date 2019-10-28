@@ -9,12 +9,12 @@ Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions
 | 21 | 0 | 0 | ***21*** |
 ## Questions & Solutions
 **Topics:**
-binary search; bit operation; bitset
-directional traversal; dp
-math; mergesort merge; multiple hash
-pseudo stack
-quicksort partition
-string; string tokenization
+binary search; bit operation; bitset;
+directional traversal; dp;
+math; mergesort merge; multiple hash;
+pseudo stack;
+quicksort partition;
+string; string tokenization;
 
 | Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
