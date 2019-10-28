@@ -3,11 +3,11 @@ This repo contains Leetcode solutions created by Zhao Pengfei (github: [LL-Pengf
 Zhao Pengfei is the sole author and copyright holder of this repository and he has built and constantly updated this repository till today. **Copying of the codes/any of the code segments for commerical use is strictly prohibited.**
 
 # LL-Pengfei-Leetcode-Solutions
-Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions. Feel free to inform me via my email (zhao.pengfei@comp.nus.edu.sg) if bugs are identified.
+Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions. Feel free to inform me via my email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs.
 ## Statistics
-| Easy | Medium | Hard | **Total** |
+| Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 21 | 0 | 0 | **21** |
+| 21 | 0 | 0 | *21* |
 ## Solution Table
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
