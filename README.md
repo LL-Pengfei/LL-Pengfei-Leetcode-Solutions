@@ -1,12 +1,12 @@
 # Copyright Notice 
-This repo contains the Leetcode solutions created by Zhao Pengfei (github: [LL-Pengfei](https://github.com/LL-Pengfei); email: zhao.pengfei@comp.nus.edu.sg), a Year 2 student (as of Academic Year 2019/2020) studying in the National University of Singapore under the Double Degree Programme, pursuing B.Comp(Hons) in Information Security and B.Sc(Hons) in Physics. Zhao Pengfei is the sole author and copyright holder of this repository. He has built and constantly updated this repository till today. **Copying of the codes/any of the code segments for commerical use is strictly prohibited.**
+This repo contains the Leetcode solutions created by Zhao Pengfei (github: [LL-Pengfei](https://github.com/LL-Pengfei); email: zhao.pengfei@comp.nus.edu.sg), a Year 2 student (as of Academic Year 2019/2020) under the Double Degree Programme in the National University of Singapore, pursuing B.Comp(Hons) in Information Security and B.Sc(Hons) in Physics. Zhao Pengfei is the sole author and copyright holder of this repository. He has built and constantly updated this repository till today. **Commerical use of this repo/codes in the repo is prohibited.** Otherwise, you are free to copy, adapt, or use the codes.
 
 # LL-Pengfei-Leetcode-Solutions
-Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions to Leetcode questions. Feel free to inform him via his email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs. Codes are written in cpp/gnu++11.
+Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions to Leetcode questions. Feel free to inform him via his email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs. All the codes in this repo, currently in cpp/gnu++11, are (reasonably good, hopyfully :) solutions to the Leetcode questions accessible without subscription, with possible implementations in different standards/other languages in the future (cpp/gnu++17, java/java8, py/python3, and ml/ocaml). This repo will be updated bi-weekly to monthly.
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 21 | 0 | 0 | ***21*** |
+| 23 | 0 | 0 | ***23*** |
 ## Questions & Solutions
 **Topics:**
 binary search; bit operation; bitset;
@@ -25,9 +25,11 @@ string; string tokenization;
 |[728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/728%20Self%20Dividing%20Numbers.cpp)||
 |[771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/771%20Jewels%20and%20Stones.cpp)|string|
 |[804 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/804%20Unique%20Morse%20Code%20Words.cpp)||
+|[811 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/811%20Subdomain%20Visit%20Count.cpp)|string, string tokenization|
 |[832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/832%20Flipping%20an%20Image.cpp)||
 |[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/852%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|binary search|
 |[905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/905%20Sort%20Array%20By%20Parity.cpp)|quicksort partition|
+|[922 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/905%20Sort%20Array%20By%20Parity%20II.cpp)|quicksort partition|
 |[929 Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/929%20Unique%20Email%20Addresses.cpp)|string tokenization|
 |[942 DI String Match](https://leetcode.com/problems/di-string-match/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/942%20DI%20String%20Match.cpp)||
 |[944 Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/944%20Delete%20Columns%20to%20Make%20Sorted.cpp)||
