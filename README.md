@@ -6,7 +6,7 @@ Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 21 | 0 | 0 | *21* |
+| 21 | 0 | 0 | **21** |
 ## Question & Solution
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
