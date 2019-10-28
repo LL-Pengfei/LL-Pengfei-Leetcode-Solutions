@@ -7,15 +7,22 @@ Starting from Oct 28, 2019, I will be updating this repo with my own solutions t
 ## Statistics
 | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|
-| 8 | 0 | 0 | 8 |
+| 21 | 0 | 0 | 21 |
 ## Solution Table
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)|
 |[657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/657%20Robot%20Return%20to%20Origin.cpp)|
+|[709 To Lower Case](https://leetcode.com/problems/to-lower-case/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/709%20To%20Lower%20Case.cpp)|
+|[728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/728%20Self%20Dividing%20Numbers.cpp)|
+|[771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/771%20Jewels%20and%20Stones.cpp)|
+|[804 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |easy|[cpp]https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/804%20Unique%20Morse%20Code%20Words.cpp)|
+|[832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/832%20Flipping%20an%20Image.cpp)|
+|[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/852%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|
 |[1021 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1021%20Remove%20Outermost%20Parentheses.cpp)|
 |[1025 Divisor Game](https://leetcode.com/problems/divisor-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1025%20Divisor%20Game.cpp)|
 |[1051 Height Checker](https://leetcode.com/problems/height-checker/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1051%20Height%20Checker.cpp)|
 |[1108 Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1108%20Defanging%20an%20IP%20Address.cpp)|
-|[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1207%20Unique%20Number%20of%20Occurrences.cpp)|
+|[1207 Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1207%20Unique%20Number%20of%20Occurrences.cpp)|
+|[1221 Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1221%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|
