@@ -5,9 +5,9 @@ Zhao Pengfei is the sole author and copyright holder of this repository and he h
 # LL-Pengfei-Leetcode-Solutions
 Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions. Feel free to inform me via my email (zhao.pengfei@comp.nus.edu.sg) if bugs are identified.
 ## Statistics
-| Easy | Medium | Hard || Total |
-|:---:|:---:|:---:||:---:|
-| 21 | 0 | 0 || 21 |
+| Easy | Medium | Hard | **Total** |
+|:---:|:---:|:---:|:---:|
+| 21 | 0 | 0 | **21** |
 ## Solution Table
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
