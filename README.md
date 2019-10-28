@@ -4,7 +4,7 @@ This repo contains the Leetcode solutions created by Zhao Pengfei (github: [LL-P
 # LL-Pengfei-Leetcode-Solutions
 Starting from Oct 28th, 2019, the author has updated this repo with his own solutions to Leetcode problems. Feel free to inform him via his email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs. All the codes in this repo, currently in cpp/gnu++11, are (reasonably good, hopyfully :) solutions to the Leetcode questions accessible without subscription, and you are free to copy, adapt, or use the codes. The author may further extend the current solution pool to include implementations in different standards/other languages in the future (cpp/gnu++17, java/java8, py/python3, ml/ocaml, etc.). This repo will be updated bi-weekly to monthly.
 
-The author created this repo at the age of 21, in an attempt to mark the first step of re-entering the field of competitive programming ever since June 2009, a little over a decade ago. After clearing the Leetcode problems, he will attempt to strike a balance between competitive programming practices and the theoretical knowledge, with focus on more challenging OJ problem sets (POJ, CodeForces, etc.) for competitive programming practices, and CLRS for theoretical studies.
+The author created this repo at the age of 21, in an attempt to mark the first step of re-entering the field of competitive programming ever since June 2009, a little over a decade ago. After clearing the Leetcode problems, he will attempt to strike a balance between competitive programming practices and the theoretical studies, with focus on more challenging OJ problem sets (POJ, CodeForces, etc.) for competitive programming practices, and CLRS for theoretical studies.
 
 ## Statistics
 | Easy | Medium | Hard | *Total* |
