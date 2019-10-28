@@ -1,14 +1,13 @@
 # Copyright Notice 
-This repo contains Leetcode solutions created by Zhao Pengfei (github: [LL-Pengfei](https://github.com/LL-Pengfei); email: zhao.pengfei@comp.nus.edu.sg), a Year 2 student (as of Academic Year 2019/2020) studying in the National University of Singapore under the Double Degree Programme, pursuing B.Comp(Hons) in Information Security and B.Sc(Hons) in Physics.
-Zhao Pengfei is the sole author and copyright holder of this repository and he has built and constantly updated this repository till today. **Copying of the codes/any of the code segments for commerical use is strictly prohibited.**
+This repo contains the Leetcode solutions created by Zhao Pengfei (github: [LL-Pengfei](https://github.com/LL-Pengfei); email: zhao.pengfei@comp.nus.edu.sg), a Year 2 student (as of Academic Year 2019/2020) studying in the National University of Singapore under the Double Degree Programme, pursuing B.Comp(Hons) in Information Security and B.Sc(Hons) in Physics. Zhao Pengfei is the sole author and copyright holder of this repository. He has built and constantly updated this repository till today. **Copying of the codes/any of the code segments for commerical use is strictly prohibited.**
 
 # LL-Pengfei-Leetcode-Solutions
-Starting from Oct 28, 2019, I will be updating this repo with my own solutions to Leetcode questions. Feel free to inform me via my email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs.
+Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions to Leetcode questions. Feel free to inform him via his email (zhao.pengfei@comp.nus.edu.sg) if you identify any bugs. Codes are written in cpp/gnu++11.
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
 | 21 | 0 | 0 | *21* |
-## Solution Table
+## Question & Solution
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
