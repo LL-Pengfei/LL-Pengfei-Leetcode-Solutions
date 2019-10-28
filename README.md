@@ -9,14 +9,14 @@ Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions
 | 21 | 0 | 0 | ***21*** |
 ## Questions & Solutions
 **Topics:**
-binary search; bit operation; bitset;
-directional traversal; dp;
-math; mergesort merge; multiple hash;
-pseudo stack;
-quicksort partition;
-string; string tokenization;
+binary search; bit operation; bitset
+directional traversal; dp
+math; mergesort merge; multiple hash
+pseudo stack
+quicksort partition
+string; string tokenization
 
-| Title | Difficulty | Programme | Topic |
+| Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|bit operation, bitset|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)||
