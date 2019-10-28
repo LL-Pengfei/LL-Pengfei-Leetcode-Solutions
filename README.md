@@ -7,7 +7,7 @@ Starting from Oct 28, 2019, Pengfei has updated this repo with his own solutions
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
 | 21 | 0 | 0 | ***21*** |
-## Question & Solution
+## Questions & Solutions
 | Title | Difficulty | Programme |
 |:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|
