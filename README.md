@@ -9,11 +9,12 @@ The author created this repo at the age of 21, in an attempt to mark the first s
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 23 | 0 | 0 | ***23*** |
+| 26 | 0 | 0 | ***26*** |
 ## Questions & Solutions
 **Topics:**
 binary search; bit operation; bitset;
 directional traversal; dp;
+hashtable duplication;
 math; mergesort merge; multiple hash;
 pseudo stack;
 quicksort partition;
@@ -22,6 +23,7 @@ string; string tokenization;
 | Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|bit operation, bitset|
+|[509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/509%20Fibonacci%20Number.cpp)|dp|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)||
 |[657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/657%20Robot%20Return%20to%20Origin.cpp)|directional traversal|
 |[709 To Lower Case](https://leetcode.com/problems/to-lower-case/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/709%20To%20Lower%20Case.cpp)||
@@ -31,6 +33,7 @@ string; string tokenization;
 |[811 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/811%20Subdomain%20Visit%20Count.cpp)|string, string tokenization|
 |[832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/832%20Flipping%20an%20Image.cpp)||
 |[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/852%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|binary search|
+|[883 Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/883%20Projection%20Area%20of%203D%20Shapes.cpp)||
 |[905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/905%20Sort%20Array%20By%20Parity.cpp)|quicksort partition|
 |[922 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/922%20Sort%20Array%20By%20Parity%20II.cpp)|quicksort partition|
 |[929 Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/929%20Unique%20Email%20Addresses.cpp)|string tokenization|
@@ -42,5 +45,6 @@ string; string tokenization;
 |[1025 Divisor Game](https://leetcode.com/problems/divisor-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1025%20Divisor%20Game.cpp)|dp, math|
 |[1051 Height Checker](https://leetcode.com/problems/height-checker/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1051%20Height%20Checker.cpp)||
 |[1108 Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1108%20Defanging%20an%20IP%20Address.cpp)|string tokenization|
+|[1160 Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1160%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|hashtable duplication|
 |[1207 Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1207%20Unique%20Number%20of%20Occurrences.cpp)|multiple hash|
 |[1221 Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1221%20Split%20a%20String%20in%20Balanced%20Strings.cpp)||
