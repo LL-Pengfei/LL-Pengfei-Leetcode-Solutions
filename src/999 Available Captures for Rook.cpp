@@ -5,9 +5,6 @@ class Solution {
 public:
     int numRookCaptures(vector<vector<char>>& board) {
         int ii,jj,res=0,A[8][8]={{0}}; //0 empty; 1 white; 2 black
-        for (int i = 0; i < 8; ++i)
-            for (int j = 0; j < 8; ++j)
-                A[i][j] = 0;
         for (int i = 0; i < 8; ++i) {
             for (int j = 0; j < 8; ++j) {
                 if (board[i][j]>='A' && board[i][j]<='Z') {
