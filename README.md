@@ -13,7 +13,7 @@ The author created this repo at the age of 21, in an attempt to mark the first s
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 32 | 0 | 0 | ***32*** |
+| 36 | 0 | 0 | ***36*** |
 ## Questions & Solutions
 **Topics:**
 binary search; bit operation; bitset;
@@ -24,6 +24,7 @@ math; mergesort merge; multiple hash;
 pseudo stack;
 quicksort partition;
 SE-OOP; stack; string; string tokenization;
+vector;
 
 | Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
@@ -37,10 +38,12 @@ SE-OOP; stack; string; string tokenization;
 |[771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/771%20Jewels%20and%20Stones.cpp)|string|
 |[804 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/804%20Unique%20Morse%20Code%20Words.cpp)||
 |[811 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/811%20Subdomain%20Visit%20Count.cpp)|string, string tokenization|
+|[821 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/821%20Shortest%20Distance%20to%20a%20Character.cpp)|vector|
 |[832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/832%20Flipping%20an%20Image.cpp)||
 |[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/852%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|binary search|
 |[883 Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/883%20Projection%20Area%20of%203D%20Shapes.cpp)||
 |[905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/905%20Sort%20Array%20By%20Parity.cpp)|quicksort partition|
+|[908 Smallest Range I](https://leetcode.com/problems/smallest-range-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/908%20Smallest%20Range%20I.cpp)|math|
 |[922 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/922%20Sort%20Array%20By%20Parity%20II.cpp)|quicksort partition|
 |[929 Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/929%20Unique%20Email%20Addresses.cpp)|string tokenization|
 |[942 DI String Match](https://leetcode.com/problems/di-string-match/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/942%20DI%20String%20Match.cpp)||
@@ -51,7 +54,9 @@ SE-OOP; stack; string; string tokenization;
 |[1002 Find Common Characters](https://leetcode.com/problems/find-common-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1002%20Find%20Common%20Characters.cpp)|string|
 |[1021 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1021%20Remove%20Outermost%20Parentheses.cpp)|pseudo stack|
 |[1025 Divisor Game](https://leetcode.com/problems/divisor-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1025%20Divisor%20Game.cpp)|dp, math|
+|[1047 Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|stack|
 |[1051 Height Checker](https://leetcode.com/problems/height-checker/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1051%20Height%20Checker.cpp)||
+|[1078 Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1078%20Occurrences%20After%20Bigram.cpp)|string tokenization|
 |[1108 Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1108%20Defanging%20an%20IP%20Address.cpp)|string tokenization|
 |[1122 Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1122%20Relative%20Sort%20Array.cpp)|countingsort|
 |[1160 Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1160%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|hashtable duplication|
