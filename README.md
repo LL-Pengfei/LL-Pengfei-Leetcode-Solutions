@@ -13,21 +13,22 @@ The author created this repo at the age of 21, in an attempt to mark the first s
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 36 | 0 | 0 | ***36*** |
+| 42 | 0 | 0 | ***42*** |
 ## Questions & Solutions
 **Topics:**
 binary search; bit operation; bitset;
 countingsort
 directional traversal; dp;
 hashtable duplication;
-math; mergesort merge; multiple hash;
+math; mergesort merge; minheap; multimap; multiple hash;
 pseudo stack;
 quicksort partition;
-SE-OOP; stack; string; string tokenization;
+SE-OOP; sort; stack; string; string tokenization;
 vector;
 
 | Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
+|[344 Reverse String](https://leetcode.com/problems/reverse-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/344%20Reverse%20String.cpp)||
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|bit operation, bitset|
 |[509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/509%20Fibonacci%20Number.cpp)|dp|
 |[557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/557%20Reverse%20Words%20in%20a%20String%20III.cpp)|string, string tokenization|
@@ -37,11 +38,14 @@ vector;
 |[728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/728%20Self%20Dividing%20Numbers.cpp)||
 |[771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/771%20Jewels%20and%20Stones.cpp)|string|
 |[804 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/804%20Unique%20Morse%20Code%20Words.cpp)||
+|[806 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/806%20Number%20of%20Lines%20To%20Write%20String.cpp)||
 |[811 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/811%20Subdomain%20Visit%20Count.cpp)|string, string tokenization|
 |[821 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/821%20Shortest%20Distance%20to%20a%20Character.cpp)|vector|
 |[832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/832%20Flipping%20an%20Image.cpp)||
+|[867 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/867%20Transpose%20Matrix.cpp)|vector|
 |[852 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/852%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|binary search|
 |[883 Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/883%20Projection%20Area%20of%203D%20Shapes.cpp)||
+|[893 Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/893%20Groups%20of%20Special-Equivalent%20Strings.cpp)|sort|
 |[905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/905%20Sort%20Array%20By%20Parity.cpp)|quicksort partition|
 |[908 Smallest Range I](https://leetcode.com/problems/smallest-range-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/908%20Smallest%20Range%20I.cpp)|math|
 |[922 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/922%20Sort%20Array%20By%20Parity%20II.cpp)|quicksort partition|
@@ -54,6 +58,7 @@ vector;
 |[1002 Find Common Characters](https://leetcode.com/problems/find-common-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1002%20Find%20Common%20Characters.cpp)|string|
 |[1021 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1021%20Remove%20Outermost%20Parentheses.cpp)|pseudo stack|
 |[1025 Divisor Game](https://leetcode.com/problems/divisor-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1025%20Divisor%20Game.cpp)|dp, math|
+|[1030 Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1030%20Matrix%20Cells%20in%20Distance%20Order.cpp)|multimap, minheap|
 |[1047 Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|stack|
 |[1051 Height Checker](https://leetcode.com/problems/height-checker/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1051%20Height%20Checker.cpp)||
 |[1078 Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1078%20Occurrences%20After%20Bigram.cpp)|string tokenization|
@@ -62,5 +67,6 @@ vector;
 |[1160 Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1160%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|hashtable duplication|
 |[1200 Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1200%20Minimum%20Absolute%20Difference.cpp)||
 |[1207 Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1207%20Unique%20Number%20of%20Occurrences.cpp)|multiple hash|
+|[1217 Play with Chips](https://leetcode.com/problems/play-with-chips/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1217%20Play%20with%20Chips.cpp)||
 |[1221 Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1221%20Split%20a%20String%20in%20Balanced%20Strings.cpp)||
 |[1237 Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1237%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.cpp)|SE-OOP|
