@@ -13,11 +13,11 @@ Starting from Oct 28th, 2019, the author has posted his own solutions to Leetcod
 ## Statistics
 | Easy | Medium | Hard | *Total* |
 |:---:|:---:|:---:|:---:|
-| 42 | 0 | 0 | ***42*** |
+| 50 | 0 | 0 | ***50*** |
 ## Questions & Solutions
 **Topics:**
 binary search; bit operation; bitset;
-countingsort
+computer organisation; countingsort;
 directional traversal; dp;
 hashtable duplication;
 math; mergesort merge; minheap; multimap; multiple hash;
@@ -28,8 +28,11 @@ vector;
 
 | Title | Difficulty | Programme | Topic(s) |
 |:---:|:---:|:---:|:---:|
+|[136 Single Number](https://leetcode.com/problems/single-number/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/136%20Single%20Number.cpp)|bit operation|
 |[344 Reverse String](https://leetcode.com/problems/reverse-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/344%20Reverse%20String.cpp)||
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|bit operation, bitset|
+|[463 Island Perimeter](https://leetcode.com/problems/island-perimeter/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/463%20Island%20Perimeter.cpp)||
+|[476 Number Complement](https://leetcode.com/problems/number-complement/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/476%20Number%20Complement.cpp)|bit operation, computer organisation|
 |[509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/509%20Fibonacci%20Number.cpp)|dp|
 |[557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/557%20Reverse%20Words%20in%20a%20String%20III.cpp)|string, string tokenization|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)||
