@@ -16,13 +16,13 @@ Starting from Oct 28th, 2019, the author has posted his own solutions to Leetcod
 | 50 | 0 | 0 | ***50*** |
 ## Questions & Solutions
 **Topics:**
-binary search; bit operation; bitset;
+binary search; bit operation; bitset; bool masking selection;
 computer organisation; countingsort;
-directional traversal; dp;
-hashtable duplication;
+directional traversal; Divide and Conquer; dp;
+hashtable duplication; heap;
 math; mergesort merge; minheap; multimap; multiple hash;
-pseudo stack;
-quicksort partition;
+Pattern Searching; pseudo stack;
+queue; quicksort partition;
 SE-OOP; sort; stack; string; string tokenization;
 vector;
 
@@ -33,12 +33,15 @@ vector;
 |[461 Hamming Distance](https://leetcode.com/problems/hamming-distance/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/461%20Hamming%20Distance.cpp)|bit operation, bitset|
 |[463 Island Perimeter](https://leetcode.com/problems/island-perimeter/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/463%20Island%20Perimeter.cpp)||
 |[476 Number Complement](https://leetcode.com/problems/number-complement/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/476%20Number%20Complement.cpp)|bit operation, computer organisation|
+|[500 Keyboard Row](https://leetcode.com/problems/keyboard-row/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/500%20Keyboard%20Row.cpp)|bool masking selection, bit operation|
 |[509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/509%20Fibonacci%20Number.cpp)|dp|
 |[557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/557%20Reverse%20Words%20in%20a%20String%20III.cpp)|string, string tokenization|
 |[561 Array Partition I](https://leetcode.com/problems/array-partition-i/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/561%20Array%20Partition%20I.cpp)||
 |[657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/657%20Robot%20Return%20to%20Origin.cpp)|directional traversal|
+|[682 Baseball Game](https://leetcode.com/problems/baseball-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-solutions/blob/master/src/682%20Baseball%20Game.cpp)||
 |[709 To Lower Case](https://leetcode.com/problems/to-lower-case/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/709%20To%20Lower%20Case.cpp)||
 |[728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/728%20Self%20Dividing%20Numbers.cpp)||
+|[766 Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/766%20Toeplitz%20Matrix.cpp)|Pattern Searching, queue, Divide and Conquer|
 |[771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/771%20Jewels%20and%20Stones.cpp)|string|
 |[804 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/804%20Unique%20Morse%20Code%20Words.cpp)||
 |[806 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/806%20Number%20of%20Lines%20To%20Write%20String.cpp)||
@@ -57,11 +60,13 @@ vector;
 |[944 Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/944%20Delete%20Columns%20to%20Make%20Sorted.cpp)||
 |[961 N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/961%20N-Repeated%20Element%20in%20Size%202N%20Array.cpp)||
 |[977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/977%20Squares%20of%20a%20Sorted%20Array.cpp)|mergesort merge|
+|[985 Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/985%20Sum%20of%20Even%20Numbers%20After%20Queries.cpp)||
 |[999 Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/999%20Available%20Captures%20for%20Rook.cpp)|directional traversal|
 |[1002 Find Common Characters](https://leetcode.com/problems/find-common-characters/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1002%20Find%20Common%20Characters.cpp)|string|
 |[1021 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1021%20Remove%20Outermost%20Parentheses.cpp)|pseudo stack|
 |[1025 Divisor Game](https://leetcode.com/problems/divisor-game/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1025%20Divisor%20Game.cpp)|dp, math|
 |[1030 Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1030%20Matrix%20Cells%20in%20Distance%20Order.cpp)|multimap, minheap|
+|[1046 Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1046%20Last%20Stone%20Weight.cpp)|heap|
 |[1047 Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|stack|
 |[1051 Height Checker](https://leetcode.com/problems/height-checker/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1051%20Height%20Checker.cpp)||
 |[1078 Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) |easy|[cpp](https://github.com/LL-Pengfei/LL-Pengfei-Leetcode-Solutions/blob/master/src/1078%20Occurrences%20After%20Bigram.cpp)|string tokenization|
